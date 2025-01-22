@@ -1,0 +1,10 @@
+#profil {
+    float: left;
+    padding-right: 10px;
+}
+
+#savoirplus {
+    background-color: dodgerblue;
+    color: white;
+    margin: 0.5em;
+}
